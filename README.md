@@ -1,4 +1,4 @@
-# SemanticAnnotation
+# Semantic Annotation
 Semantic annotation of medical documents.
 
 A project owned by:
