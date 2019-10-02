@@ -1,5 +1,5 @@
 # SemanticAnnotation
-Semantic annotation of medical documents:
+Semantic annotation of medical documents.
 
 A project owned by:
 
